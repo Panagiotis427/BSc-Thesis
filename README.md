@@ -1,7 +1,4 @@
-# BSc Thesis "Classification of Images and Generation of Similar and Adversarial Images with the Use of Convolutional Neural Networks and Generative Adversarial Networks"
-My BSc thesis is found as:
-
-Πτυχιακή - Γιαννίκος Παναγιώτης.pdf
+Classification of Images and Generation of Similar and Adversarial Images with the Use of Convolutional Neural Networks and Generative Adversarial Networks
 
 Intel Image Dataset used, is found at:
 
