@@ -1,4 +1,4 @@
-Classification of Images and Generation of Similar and Adversarial Images with the Use of Convolutional Neural Networks and Generative Adversarial Networks
+Classification of images and generation of similar and adversarial images with the use of convolutional neural networks and generative adversarial networks
 
 Intel Image Dataset used, is found at:
 
